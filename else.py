@@ -33,6 +33,9 @@ else:
 friends = ["ruth", "wik" , "reddy"]
 enemies = ["sai" , "nadh" , "peruri"]
 for x in friends:
+
+
+#myhomeschool
   for y in enemies:
     print(x,y)
 
